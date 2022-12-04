@@ -10,7 +10,7 @@ SoftwareSPI aims to fix some of those problems, and add some additional features
 that increase user understanding, compatability, speed etc.
 
 ## Usage
-TODO
+Still need to finish main API before I can flesh this out
 
 
 ## Todo
